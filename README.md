@@ -1,5 +1,5 @@
 # Homework grid View builder
-## Eakkawee Puangbuppha
+### Eakkawee Puangbuppha 6340011020
 
 <img src="assets/Screenshot.png" style="width: 300px; height: 600px; max-width: 100%;">
 ## Getting Started
