@@ -1,7 +1,7 @@
-# listscreen
+# Homework grid View builder
+# Eakkawee Puangbuppha
 
-A new Flutter project.
-
+<img src="assets/Screenshot.png" style="width: 300px; height: 600px; max-width: 100%;">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
